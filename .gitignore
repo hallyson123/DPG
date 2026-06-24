@@ -1,0 +1,19 @@
+# Ambientes Virtuais e Cache
+__pycache__/
+*.pyc
+
+*.env
+.env
+Criar_banco_de_dados/Codigo/.env
+
+# Dados Sensíveis e Planilhas
+database.csv
+database_corrigido.csv
+
+# Arquivos Originais do Sistema
+livro_registro.pdf
+livro_registro1.pdf
+
+# Arquivos Gerados Dinamicamente pela Automação
+*.pdf
+*.odt
