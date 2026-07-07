@@ -1,0 +1,192 @@
+CAMPUS,CURSO,TOTAL_ALUNOS
+Cerro largo,DDPP - Doutorado em Desenvolvimento e Políticas Públicas,49
+Cerro largo,DRS - Especialização em Desenvolvimento Rural Sustentável e Agricultura Familiar,30
+Cerro largo,ECM - Especialização em Ensino de Ciências e Matemática,25
+Cerro largo,IPP - Especialização em Interdisciplinaridade e Práticas Pedagógicas na Educação Básica,36
+Cerro largo,LEN - Especialização em Linguagem e Ensino,18
+Cerro largo,MATS - Mestrado em Ambiente e Tecnologias Sustentáveis,164
+Cerro largo,MDPP - Mestrado em Desenvolvimento e Políticas Públicas,190
+Cerro largo,MEC - Mestrado em Ensino de Ciências,122
+Cerro largo,OED - Especialização em Orientação Educacional,62
+Cerro largo,OEDU - Especialização em Orientação Educacional,29
+Cerro largo,PNPD/PPGATS - Pós Doutorado em Ambiente e Tecnologias Sustentáveis,6
+Cerro largo,PNPD/PPGDPP - Pós Doutorado em Desenvolvimento e Políticas Públicas,7
+Cerro largo,PNPD/PPGEC - Pós Doutorado em Ensino de Ciências,5
+Chapecó,APRA - Aperfeiçoamento em Residência Agrícola,5
+Chapecó,DEL - Doutorado em Estudos Linguísticos,54
+Chapecó,DH - Doutorado em História,34
+Chapecó,EDC - Especialização em Educação do Campo com Ênfase em Estudos da Realidade Brasileira,47
+Chapecó,EEO - Especialização em Enfermagem em Oncologia,40
+Chapecó,EIN - Especialização em Educação Integral,50
+Chapecó,EPV - Especialização em Produção Vegetal,12
+Chapecó,EPV - Especialização em produção vegetal,16
+Chapecó,ESC - Especialização em Saúde Coletiva,40
+Chapecó,"ESSPSTP - Especialização Serviço Social, Políticas Sociais e Trabalho Profissional",40
+Chapecó,GEEB - Especialização em Gestão Escolar da Educação Básica,27
+Chapecó,HRE - Especialização em História Regional,35
+Chapecó,JCBAL - Especialização em Juventude Contemporânea: Brasil e América Latina,56
+Chapecó,LCS - Especialização em Literaturas do Cone Sul,29
+Chapecó,MCB - Mestrado em Ciências Biomédicas,97
+Chapecó,ME - Mestrado em Educação,289
+Chapecó,MEL - Mestrado em Estudos Linguísticos,227
+Chapecó,MENF - Mestrado em Enfermagem,63
+Chapecó,MFIL - Mestrado em Filosofia,86
+Chapecó,MGEO - Mestrado em Geografia,100
+Chapecó,MH - Mestrado em História,160
+Chapecó,MPCA - Mestrado Profissional em Computação Aplicada,15
+Chapecó,MPROFIAP - Mestrado Profissional em Administração Pública em Rede Nacional,48
+Chapecó,MPROFMAT - Mestrado Profissional em Matemática em Rede Nacional,196
+Chapecó,PIA/PPGCB - Intercâmbio Acadêmico em Ciências Biomédicas,5
+Chapecó,PIA/PPGH - Intercâmbio Acadêmico em História,3
+Chapecó,PNPD/PPGCB - Pós Doutorado em Ciências Biomédicas,5
+Chapecó,PNPD/PPGE - Pós Doutorado em Educação,6
+Chapecó,PNPD/PPGEL - Pós Doutorado em Estudos Linguísticos,5
+Chapecó,PNPD/PPGENF - Pós-doutorado em Enfermagem,3
+Chapecó,PNPD/PPGGeo - Pós Doutorado em Geografia,4
+Chapecó,PNPD/PPGH - Pós Doutorado em História,8
+Chapecó,PRM055 - Residência Médica em Anestesiologia,30
+Chapecó,PRM056 - Residência Médica em Ortopedia e Traumatologia,23
+Chapecó,PRM057 - Residência Médica em Clínica Médica,33
+Chapecó,PRM058 - Programa de Pré Requisito em Área Cirúrgica Básica,1
+Chapecó,PRM059 - Residência Médica em Ginecologia e Obstetrícia,16
+Chapecó,PRM060 - Residência Médica em Cirurgia Geral R3,4
+Chapecó,PRM061 - Residência Médica em Pediatria,25
+Chapecó,PRM071 - Residência Médica em Cirurgia Geral,32
+Chapecó,RMSC001 - Residência Médica em Clínica Médica - Hospital Regional do Oeste,23
+Chapecó,RMSC002 - Residência Médica em Cirurgia Geral - Hospital Regional do Oeste,19
+Chapecó,RMSC003 - Residência Médica em Ortopedia e Traumatologia - Hospital Regional do Oeste,19
+Chapecó,RMSC004 - Residência Médica em Anestesiologia - Hospital Regional do Oeste,18
+Chapecó,RMSC005 - Residência Médica em Ginecologia e Obstetrícia - Hospital Regional do Oeste,11
+Chapecó,RMSC006 - Residência Médica em Pediatria - Hospital Regional do Oeste,16
+Chapecó,RMSC007 - Residência Médica em Cirurgia Geral R3 - Hospital Regional do Oeste,3
+Chapecó,RMSC008 - Programa de Pré-Requisito em Área Cirúrgica Básica,1
+Chapecó,SCO - Especialização em Saúde Coletiva,30
+Erechim,CCDS - Especialização em Cooperativismo de Crédito e Desenvolvimento Sustentável,45
+Erechim,DCTA - Doutorado em Ciência e Tecnologia Ambiental,25
+Erechim,DPE - Doutorado em Educação,13
+Erechim,EGPU - Especialização em Gestão Pública,28
+Erechim,EIN - Especialização em Educação Integral,51
+Erechim,EME - Especialização em Epistemologia e Metafísica,18
+Erechim,EPGR - Especialização em Planejamento e Gestão de Recursos Hídricos,13
+Erechim,EPPCI - Especialização em Processos e Produtos Criativos e suas Interfaces,53
+Erechim,"GECDSE - Especialização em Gestão Escolar: Coordenação, Direção e Supervisão Escolar",45
+Erechim,"GECDSE - Especialização em Gestão Escolar: Direção, Coordenação e Supervisão Educacional",79
+Erechim,GESTÃO ESCOLAR - Especialização em Gestão Escolar,38
+Erechim,HCI - Especialização em História da Ciência,32
+Erechim,MCTA - Mestrado em Ciência e Tecnologia Ambiental,239
+Erechim,MGEO - Mestrado em Geografia,100
+Erechim,MICH - Mestrado Interdisciplinar em Ciências Humanas,216
+Erechim,MPE - Mestrado em Educação,249
+Erechim,PNPD/PPGCTA - Pós Doutorado em Ciência e Tecnologia Ambiental,6
+Erechim,PNPD/PPGICH - Pós Doutorado Interdisciplinar em Ciências Humanas,8
+Erechim,PNPD/PPGPE - Pós-doutorado em Educação,1
+Erechim,PPE - Especialização em Processos Pedagógicos na Educação Básica,35
+Erechim,TLC - Especialização em Teorias Linguísticas Contemporâneas,22
+Laranjeiras do sul,APET - Aperfeiçoamento Escola da Terra,87
+Laranjeiras do sul,EDC - Especialização em Educação do Campo,38
+Laranjeiras do sul,EEGPN - Especialização em Economia Empresarial e Gestão de Pequenos Negócios,40
+Laranjeiras do sul,ERB2 - Especialização em Realidade Brasileira,49
+Laranjeiras do sul,ESPRBRAS - Especialização em Realidade Brasileira,45
+Laranjeiras do sul,ETI - Especialização em Educação de Tempo Integral,35
+Laranjeiras do sul,FPEC - ET - Especialização em Fundamentos e Práticas em Educação do Campo,51
+Laranjeiras do sul,MADR - Mestrado em Agroecologia e Desenvolvimento Rural Sustentável,222
+Laranjeiras do sul,MCTAL - Mestrado em Ciência e Tecnologia de Alimentos,122
+Laranjeiras do sul,PLA - Especialização em Produção de Leite Agroecológico,55
+Laranjeiras do sul,PNPD/PPGADR - Pós Doutorado em Agroecologia e Desenvolvimento Rural Sustentável,2
+Passo Fundo,PCPME001 - Aperfeiçoamento em Clínica Médica,7
+Passo Fundo,PCPME002 - Aperfeiçoamento em Cirurgia Geral,12
+Passo Fundo,PCPME004 - Aperfeiçoamento em Psiquiatria,2
+Passo Fundo,PCPME005 - Aperfeiçoamento em Radiologia e Diagnóstico por Imagem,2
+Passo Fundo,PRM045 - Residência Médica em Alergia e Imunologia Pediátrica - Hospital da Cidade de Passo Fundo,8
+Passo Fundo,PRM046 - Residência Médica em Dermatologia - Hospital São Vicente de Paulo,8
+Passo Fundo,PRM047 - Residência Médica em Cirurgia da Mão - Hospital São Vicente de Paulo,6
+Passo Fundo,PRM062 - Residência Médica em Clínica Médica,176
+Passo Fundo,PRM063 - Programa de Pré Requisito em Área Cirúrgica Básica,40
+Passo Fundo,PRM064 - Residência Médica em Pediatria,88
+Passo Fundo,PRM065 - Residência Médica em Cardiologia,44
+Passo Fundo,PRM066 - Residência Médica em Ortopedia e Traumatologia,81
+Passo Fundo,PRM067 - Residência Médica em Obstetrícia e Ginecologia,11
+Passo Fundo,PRM068 - Residência Médica em Cirurgia Vascular,30
+Passo Fundo,PRM069 - Residência Médica em Alergia e Imunologia Pediátrica,12
+Passo Fundo,PRM070 - Residência Médica em Anestesiologia,14
+Passo Fundo,PRM072 - Residência Médica em Dermatologia,14
+Passo Fundo,PRM073 - Residência Médica em Ecocardiografia,10
+Passo Fundo,PRM074 - Residência Médica em Gastroenterologia,32
+Passo Fundo,PRM075 - Residência Médica em Geriatria,14
+Passo Fundo,PRM076 - Residência Médica em Hemodinâmica e Cardiologia Intervencionista,1
+Passo Fundo,PRM077 - Residência Médica em Mastologia,6
+Passo Fundo,PRM078 - Residência Médica em Medicina de Família e Comunidade,21
+Passo Fundo,PRM079 - Residência Médica em Medicina Intensiva,14
+Passo Fundo,PRM080 - Residência Médica em Medicina Intensiva Pediátrica,5
+Passo Fundo,PRM081 - Residência Médica em Cirurgia da Mão,11
+Passo Fundo,PRM082 - Residência Médica em Neonatologia,7
+Passo Fundo,PRM083 - Residência Médica em Neurocirurgia,8
+Passo Fundo,PRM084 - Residência Médica em Neurologia,27
+Passo Fundo,PRM085 - Residência Médica em Oftalmologia,40
+Passo Fundo,PRM086 - Residência Médica em Oncologia Clínica,15
+Passo Fundo,PRM087 - Residência Médica em Oncologia Pediátrica,1
+Passo Fundo,PRM088 - Residência Médica em Otorrinolaringologia,15
+Passo Fundo,PRM089 - Residência Médica em Psiquiatria,17
+Passo Fundo,PRM090 - Residência Médica em Radiologia e Diagnóstico por Imagem,45
+Passo Fundo,PRM091 - Residência Médica em Ginecologia e Obstetrícia,56
+Passo Fundo,PRM092 - Residência Médica em Cirurgia Geral,59
+Passo Fundo,PRM094 - Residência Médica em Pneumologia,1
+Passo Fundo,PRM095 - Residência Médica em Urologia,1
+Passo Fundo,PRMPF048 - Residência Médica Pré-Requisito em Área Cirúrgica Básica - Hospital da Cidade de Passo Fundo,9
+Passo Fundo,PRMPF049 - Residência Médica Pré-Requisito em Área Cirúrgica Básica - Hospital São Vicente de Paulo,8
+Passo Fundo,PRMPF050 - Residência Médica em Anestesiologia - Hospital da Cidade de Passo Fundo,2
+Passo Fundo,PRMPF051 - Residência Médica em Anestesiologia - Hospital São Vicente de Paulo,2
+Passo Fundo,PRMPF053 - Residência Médica em Oftalmologia - Hospital de Olhos,2
+Passo Fundo,PRMPF054 - Residência Médica em Neurologia - Hospital da Cidade de Passo Fundo,3
+Passo Fundo,PRMULT - Residência Multiprofissional em Saúde,62
+Passo Fundo,RMPF002 - Residência Médica em Cardiologia - Hospital São Vicente de Paulo,25
+Passo Fundo,RMPF003 - Residência Médica em Cardiologia - Hospital da Cidade de Passo Fundo,17
+Passo Fundo,RMPF004 - Residência Médica em Clínica Médica - Hospital São Vicente de Paulo,72
+Passo Fundo,RMPF005 - Residência Médica em Clínica Médica - Hospital da Cidade de Passo Fundo,70
+Passo Fundo,RMPF006 - Residência Médica em Cirurgia Geral - Hospital São Vicente de Paulo,57
+Passo Fundo,RMPF007 - Residência Médica em Cirurgia Geral - Hospital da Cidade de Passo Fundo,46
+Passo Fundo,RMPF008 - Residência Médica em Obstetrícia e Ginecologia - Hospital São Vicente de Paulo,38
+Passo Fundo,RMPF009 - Residência Médica em Obstetrícia e Ginecologia - Hospital da Cidade de Passo Fundo,21
+Passo Fundo,RMPF010 - Residência Médica em Pediatria - Hospital São Vicente de Paulo,49
+Passo Fundo,RMPF011 - Residência Médica em Pediatria - Hospital da Cidade de Passo Fundo,30
+Passo Fundo,RMPF012 - Residência Médica em Clínica Médica em Radiologia e Diagnóstico por Imagem – Hospital São Vicente de Paulo,30
+Passo Fundo,RMPF013 - Residência Médica em Clínica Médica em Radiologia e Diagnóstico por Imagem – Hospital da Cidade de Passo Fundo,9
+Passo Fundo,RMPF014 - Residência Médica em Cirurgia Vascular - Hospital São Vicente de Paulo,23
+Passo Fundo,RMPF015 - Residência Médica em Cirurgia Vascular - Hospital da Cidade de Passo Fundo,10
+Passo Fundo,RMPF016 - Residência Médica em Ortopedia e Traumatologia - Hospital São Vicente de Paulo,52
+Passo Fundo,RMPF017 - Residência Médica em Ortopedia e Traumatologia - Hospital da Cidade de Passo Fundo,36
+Passo Fundo,RMPF018 - Residência Médica em Neurocirurgia - Hospital São Vicente de Paulo,18
+Passo Fundo,RMPF019 - Residência Médica em Neurocirurgia - Hospital da Cidade de Passo Fundo,11
+Passo Fundo,RMPF020 - Residência Médica em Psiquiatria - Hospital da Cidade de Passo Fundo,19
+Passo Fundo,RMPF021 - Residência Médica em Cancerologia Clínica - Hospital da Cidade de Passo Fundo,9
+Passo Fundo,RMPF021 - Residência Médica em Oncologia Clínica - Hospital da Cidade de Passo Fundo,3
+Passo Fundo,RMPF022 - Residência Médica em Gastroenterologia - Hospital São Vicente de Paulo,19
+Passo Fundo,RMPF023 - Residência Médica em Gastroenterologia - Hospital da Cidade de Passo Fundo,5
+Passo Fundo,RMPF024 - Residência Médica em Oftalmologia - Hospital São Vicente de Paulo,24
+Passo Fundo,RMPF025 - Residência Médica em Medicina de Família e Comunidade - Hospital São Vicente de Paulo,6
+Passo Fundo,RMPF026 - Residência Médica em Medicina Intensiva - Hospital São Vicente de Paulo,6
+Passo Fundo,RMPF028 - Residência Médica em Neonatologia - Hospital São Vicente de Paulo,10
+Passo Fundo,RMPF030 - Residência Médica em Cirurgia da Mão - Hospital da Cidade de Passo Fundo,4
+Passo Fundo,RMPF031 - Residência Médica em Medicina Intensiva Pediátrica - Hospital São Vicente de Paulo,10
+Passo Fundo,RMPF032 - Residência Médica em Hemodinâmica e Cardiologia Intervencionista - Hospital São Vicente de Paulo,3
+Passo Fundo,RMPF033 - Residência Médica em Ecocardiografia - Hospital São Vicente de Paulo,13
+Passo Fundo,RMPF034 - Residência Médica em Cancerologia Clínica - Hospital São Vicente de Paulo,6
+Passo Fundo,RMPF035 - Residência Médica em Geriatria - Hospital São Vicente de Paulo,5
+Passo Fundo,RMPF036 - Residência Médica em Hematologia e Hemoterapia - Hospital São Vicente de Paulo,1
+Passo Fundo,RMPF037 - Residência Médica em Medicina de Urgência - Hospital São Vicente de Paulo,1
+Passo Fundo,RMPF038 - Residência Médica em Nefrologia - Hospital São Vicente de Paulo,1
+Passo Fundo,RMPF039 - Residência Médica em Neurologia - Hospital São Vicente de Paulo,15
+Passo Fundo,RMPF040 - Residência Médica em Patologia - Hospital São Vicente de Paulo,2
+Passo Fundo,RMPF041 - Residência Medica em Radioterapia - Hospital São Vicente de Paulo,4
+Passo Fundo,RMPF042 - Residência Médica em Cancerologia Pediátrica - Hospital São Vicente de Paulo,2
+Passo Fundo,RMPF043 - Residência Médica em Otorrinolaringologia - Hospital São Vicente de Paulo,11
+Passo Fundo,RMPF044 - Residência Médica em Clínica Médica - Hospital de Caridade de Carazinho,12
+Realeza,DH - Especialização em Direitos Humanos,154
+Realeza,ECNS - Especialização em Educação em Ciências Naturais e Sociedade,18
+Realeza,ELL - Especialização em Ensino de Língua e Literatura,40
+Realeza,ELLRE - Especialização em Ensino de Língua e Literatura,19
+Realeza,MPDH - Mestrado Profissional em Direitos Humanos,21
+Realeza,"MSBPAS - Mestrado em Saúde, Bem-estar e Produção Animal Sustentável na Fronteira Sul",166
+Realeza,"PIA/PPGSBPAS - Intercâmbio Acadêmico em Saúde, Bem estar e Produção Animal Sustentável na Fronteira Sul",1
+Realeza,"PNPD/PPGSBPAS - Pós-doutorado em Saúde, Bem-estar e Produção Animal na Fronteira Sul",1
+Realeza,SAN - Especialização em Segurança Alimentar e Nutricional,25
